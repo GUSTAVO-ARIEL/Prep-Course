@@ -4,18 +4,20 @@
 const nuevaString = "hey";
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = "23"
+const nuevoNum = "23" 
 
 // Crea una variable booleana:
 const nuevoBool =" nuevobool2"
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - "5" === 5;
 
+
 // Resuelve el siguiente problema matemático:
 const nuevaMultiplicacion = 10 * "4" === 40 ;
 
 // Resuelve el siguiente problema matemático:
 const nuevoModulo = 21 % 5 === "4.25"
+
 // En los próximos 22 problemas, deberás completar la función.
 // Todo tu código irá dentro de las llaves de la función.
 // Asegúrate que usas "return" cuando la consola te lo pida.
